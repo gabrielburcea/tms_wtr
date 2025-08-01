@@ -1,0 +1,38 @@
+*.pyc
+*.pyo
+__pycache__/
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Logs and temporary files
+*.log 
+*.tmp
+*.out
+*.err
+
+# Test coverage reports
+.coverage
+*.cover
+coverage.xml
+*.lcov
+
+# Pytest cache
+.pytest_cache/
+
+# Sytem files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+*.env
+
+
